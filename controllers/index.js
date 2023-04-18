@@ -1,11 +1,11 @@
-const myName = (req, res, next) => {
+const awesome = (req, res, next) => {
     res.json('Claudio Parra');
 };
 
-const myWifeName = (req, res, next) => {
+const superAwesome = (req, res, next) => {
     res.json('Fran Parra');
 };
 
 
 
-module.exports = {myName, myWifeName}
+module.exports = {awesome, superAwesome}
