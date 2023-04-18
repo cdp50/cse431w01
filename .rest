@@ -1,0 +1,9 @@
+GET http://localhost:3000 HTTP/1.1
+
+###
+
+GET http://localhost:3000/wife   HTTP/1.1
+
+###
+
+GET http://localhost:3000/myName   HTTP/1.1
